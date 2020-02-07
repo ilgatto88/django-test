@@ -5,11 +5,13 @@ channels:
 dependencies:
   - ca-certificates=2019.11.28=hecc5488_0
   - certifi=2019.11.28=py38_0
+  - dj-database-url=0.4.2=py_1001
   - django-crispy-forms=1.8.1=py_0
   - django-widget-tweaks=1.4.5=py_0
   - jinja2=2.11.0=py_0
   - markupsafe=1.1.1=py38h516909a_0
   - openssl=1.1.1d=h516909a_0
+  - python-decouple=3.2=py_0
   - _libgcc_mutex=0.1=main
   - django=2.2.5=py38_1
   - ld_impl_linux-64=2.33.1=h53a641e_7

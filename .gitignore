@@ -6,5 +6,6 @@ settings.json
 .vscode
 venv/
 .env
+*cpython*
 
 *.sqlite3
