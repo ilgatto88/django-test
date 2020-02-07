@@ -1,5 +1,10 @@
 # Don't track these files
-*.pyc
+__pycache__/
+*.py[cod]
 launch.json
 settings.json
 .vscode
+venv/
+.env
+
+*.sqlite3
